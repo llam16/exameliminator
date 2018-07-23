@@ -4,29 +4,65 @@ body {
 }
 
 section{
-   
+
     widows: 100%;
     min-height:250px;
-    
+    padding-top: 30px;
+
+}
+center{
+    font-family: 'Press Start 2P', cursive;
+
 }
 .wave
 {
     position: relative;
-    background: linear-gradient(90deg,#D98880,#A93226);
+    background: linear-gradient(90deg,#B03A2E,#641E16)
 
 }
-
 .wave:before
 {
 
-    content: 'Screw the Cahlage Bored';
+    content: '';
     position: absolute;
     bottom: 0;
     left:0;
     width: 100%;
-    height: 215px;
+    height: 210px;
     background: url(wave.png);
     background-size: cover;
     background-repeat: no-repeat;
+
+}
+h1{
+  color: white;
+  text-shadow: 10px 10px black;
+}
+ul {
+    list-style-type: none;
+    padding: 25px;
+    margin: 0;
+    overflow:hidden;
+    background: #17202A;
+    text-align: center;
+}
+li{
+    display: inline;
+    border-right: 1px solid #bbb;
+}
+li:last-child{
+    border-right:none;
+
+}
+li a{
+    color:#A6ACAF;
+    text-align: center;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #273746;
+}
+center {
+    font-family: 'Press Start 2P', cursive;
 
 }
