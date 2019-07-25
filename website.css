@@ -1,9 +1,3 @@
-<STYLE TYPE=”text/css”> 
-<-- 
-.twentysixpoint {1.5: 26pt;} 
---> 
-</STYLE> 
-
 body {
     margin: 0;
     padding: 0;
@@ -85,19 +79,6 @@ li a:hover{
     background-color: #273746;
 }
 
-
-div id = "PURPOSE" {
-  line-height: 1.6;
-}
-
-div.b {
-  line-height: 1.6;
-}
-
-div.c {
-  line-height: 80%;
-}
-
-div.d {
-  line-height: 200%;
+center {
+    line-height:1.6;
 }
