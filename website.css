@@ -88,8 +88,8 @@ center {
    font-family: 'Press Start 2P', cursive;
 }
 
-div.a {
-  line-height: normal;
+div id = "PURPOSE" {
+  line-height: 1.6;
 }
 
 div.b {
