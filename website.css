@@ -87,3 +87,19 @@ li a:hover{
 center {
    font-family: 'Press Start 2P', cursive;
 }
+
+div.a {
+  line-height: normal;
+}
+
+div.b {
+  line-height: 1.6;
+}
+
+div.c {
+  line-height: 80%;
+}
+
+div.d {
+  line-height: 200%;
+}
