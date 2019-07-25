@@ -11,7 +11,7 @@ section{
 
 }
 center{
-    font-family: 'Press Start 2P', cursive;
+    font-family: "Courier New", Lucida Consol, monospace;
 
 }
 .container{
@@ -79,6 +79,6 @@ li a:hover{
     background-color: #273746;
 }
 center {
-    font-family: 'Press Start 2P', cursive;
+   font-family: "Courier New", Lucida Consol, monospace;
 
 }
